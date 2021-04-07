@@ -3,7 +3,7 @@
 ![Prerequisite](https://img.shields.io/badge/node-12.x-blue.svg)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/bolorundurovj/Covid19-Tracker-v2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
-[![Twitter: bolorundurovb](https://img.shields.io/twitter/follow/bolorundurovb.svg?style=social)](https://twitter.com/bolorundurovb)
+
 
 > A simple Covid 19 Tracking Dashboard built with the MEAN stack
 
