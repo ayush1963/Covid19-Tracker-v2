@@ -34,20 +34,9 @@ cd frontend && ng serve
 npm run test
 ```
 
-## Author
+#
 
-👤 **Bolorunduro Valiant-Joshua**
 
-* Website: bolorundurovb.com
-* Twitter: [@bolorundurovb](https://twitter.com/bolorundurovb)
-* Github: [@bolorundurovj](https://github.com/bolorundurovj)
-* LinkedIn: [@bolorundurovb](https://linkedin.com/in/bolorundurovb)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-Feel free to check [issues page](https://github.com/bolorundurovj/Covid19-Tracker-v2/issues). 
 
 ## Show your support
 
